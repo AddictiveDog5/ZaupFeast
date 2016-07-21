@@ -34,43 +34,51 @@ namespace ZaupFeast
             MessageColor = "red";
             Items = new List<FeastItem>
 		    {
-			    new FeastItem(66, "Cloth", 10, new List<string>
+			    new FeastItem(1021, "Avenger", 5, new List<string>
 			    {
 				    "all"
 			    }),
-			    new FeastItem(43, "Military Ammunition Box", 10, new List<string>
+			    new FeastItem(43, "Military Ammunition Box", 5, new List<string>
 			    {
 				    "all"
 			    }),
-			    new FeastItem(44, "Civilian Ammunition Box", 10, new List<string>
+			    new FeastItem(147, "Halo Sight", 2, new List<string>
 			    {
 				    "all"
 			    }),
-			    new FeastItem(13, "Canned Beans", 10, new List<string>
+			    new FeastItem(1022, "Avenger Magazine", 3, new List<string>
 			    {
 				    "all"
 			    }),
-			    new FeastItem(14, "Bottled Water", 10, new List<string>
+			    new FeastItem(143, "Bipod", 6, new List<string>
 			    {
 				    "all"
 			    }),
-			    new FeastItem(10, "Police Vest", 10, new List<string>
+			    new FeastItem(253, "Alicepack", 3, new List<string>
 			    {
 				    "all"
 			    }),
-			    new FeastItem(251, "White Travelpack", 10, new List<string>
+			    new FeastItem(1018, "Sabertooth", 1, new List<string>
 			    {
 				    "all"
 			    }),
-			    new FeastItem(223, "Police Top", 10, new List<string>
+			    new FeastItem(1020, "Sabertooth Magazine", 2, new List<string>
 			    {
 				    "all"
 			    }),
-			    new FeastItem(224, "Police Bottom", 10, new List<string>
+			    new FeastItem(1113, "Snare", 5, new List<string>
 			    {
 				    "all"
 			    }),
-			    new FeastItem(366, "Maple Crate", 10, new List<string>
+			    new FeastItem(1132, "Snowball", 1, new List<string>
+			    {
+				    "all"
+			    }),
+			    new FeastItem(355, "Blue Flare", 10, new List<string>
+			    {
+				    "all"
+			    }),
+			    new FeastItem(1244, "Sentry", 3, new List<string>
 			    {
 				    "all"
 			    })
